@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-07-21T12:00:00Z",
-  "versions": [
-    {
-      "id": "kjv",
-      "name": "English (KJV)",
-      "language": "English",
-      "url": "bibles/kjv.json",
-      "version": "1.0.0",
-      "size": "4.8MB"
-    },
-    {
-      "id": "hindi_bsi",
-      "name": "Hindi (BSI)",
-      "language": "Hindi",
-      "url": "bibles/hindi.json",
-      "version": "1.0.0",
-      "size": "12.3MB"
-    },
-    {
-      "id": "telugu_community",
-      "name": "Telugu (Community)",
-      "language": "Telugu",
-      "url": "bibles/telugu.json",
-      "version": "1.0.0",
-      "size": "13.1MB"
-    }
-  ]
+    "last_updated": "2026-07-21T12:00:00Z",
+    "versions": [
+        {
+            "id": "kjv",
+            "name": "English (KJV)",
+            "language": "English",
+            "url": "bibles/kjv.json",
+            "version": "1.0.0",
+            "size": "4.8MB"
+        },
+        {
+            "id": "hindi_bsi",
+            "name": "Hindi (BSI)",
+            "language": "Hindi",
+            "url": "bibles/hindi.json",
+            "version": "1.0.0",
+            "size": "12.3MB"
+        },
+        {
+            "id": "telugu_community",
+            "name": "Telugu (Community)",
+            "language": "Telugu",
+            "url": "bibles/telugu.json",
+            "version": "1.0.0",
+            "size": "13.1MB"
+        }
+    ]
 }
