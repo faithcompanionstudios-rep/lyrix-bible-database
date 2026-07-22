@@ -24,6 +24,76 @@
             "url": "bibles/telugu.json",
             "version": "1.0.0",
             "size": "13.1MB"
+        },
+        {
+            "id": "hindi-bible",
+            "name": "Hindi Bible",
+            "language": "Hindi",
+            "url": "bibles/hindi-bible.json",
+            "size": "10.7 MB"
+        },
+        {
+            "id": "telugu-bible",
+            "name": "Telugu Bible",
+            "language": "Telugu",
+            "url": "bibles/telugu-bible.json",
+            "size": "11.4 MB"
+        },
+        {
+            "id": "tamil-bible",
+            "name": "Tamil Bible",
+            "language": "Tamil",
+            "url": "bibles/tamil-bible.json",
+            "size": "13.5 MB"
+        },
+        {
+            "id": "malayalam-bible",
+            "name": "Malayalam Bible",
+            "language": "Malayalam",
+            "url": "bibles/malayalam-bible.json",
+            "size": "12.1 MB"
+        },
+        {
+            "id": "kannada-bible",
+            "name": "Kannada Bible",
+            "language": "Kannada",
+            "url": "bibles/kannada-bible.json",
+            "size": "11.5 MB"
+        },
+        {
+            "id": "marathi-bible",
+            "name": "Marathi Bible",
+            "language": "Marathi",
+            "url": "bibles/marathi-bible.json",
+            "size": "12.3 MB"
+        },
+        {
+            "id": "gujarati-bible",
+            "name": "Gujarati Bible",
+            "language": "Gujarati",
+            "url": "bibles/gujarati-bible.json",
+            "size": "11.5 MB"
+        },
+        {
+            "id": "bengali-bible",
+            "name": "Bengali Bible",
+            "language": "Bengali",
+            "url": "bibles/bengali-bible.json",
+            "size": "12.4 MB"
+        },
+        {
+            "id": "punjabi-bible",
+            "name": "Punjabi Bible",
+            "language": "Punjabi",
+            "url": "bibles/punjabi-bible.json",
+            "size": "13.3 MB"
+        },
+        {
+            "id": "oriya-bible",
+            "name": "Oriya Bible",
+            "language": "Oriya",
+            "url": "bibles/oriya-bible.json",
+            "size": "12.8 MB"
         }
     ]
 }
