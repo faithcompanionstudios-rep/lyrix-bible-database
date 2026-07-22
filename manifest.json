@@ -94,6 +94,804 @@
             "language": "Oriya",
             "url": "bibles/oriya-bible.json",
             "size": "12.8 MB"
+        },
+        {
+            "id": "afrikaans-pwl",
+            "name": "AFRIKAANS PWL",
+            "language": "Africa",
+            "url": "bibles/afrikaans-pwl.json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "arabic-smith-&-van-dyke",
+            "name": "ARABIC: SMITH & VAN DYKE",
+            "language": "Middle East",
+            "url": "bibles/arabic-smith-&-van-dyke.json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "bavarian",
+            "name": "BAVARIAN",
+            "language": "Other",
+            "url": "bibles/bavarian.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "bulgarian",
+            "name": "BULGARIAN",
+            "language": "Other",
+            "url": "bibles/bulgarian.json",
+            "size": "6.4 MB"
+        },
+        {
+            "id": "czech-bkr",
+            "name": "CZECH BKR",
+            "language": "Other",
+            "url": "bibles/czech-bkr.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "danish",
+            "name": "DANISH",
+            "language": "Other",
+            "url": "bibles/danish.json",
+            "size": "3.8 MB"
+        },
+        {
+            "id": "german-luther-(1912)",
+            "name": "GERMAN: LUTHER (1912)",
+            "language": "Europe",
+            "url": "bibles/german-luther-(1912).json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "german-modernized",
+            "name": "GERMAN: MODERNIZED",
+            "language": "Europe",
+            "url": "bibles/german-modernized.json",
+            "size": "3.0 MB"
+        },
+        {
+            "id": "german-textbibel-(1899)",
+            "name": "GERMAN: TEXTBIBEL (1899)",
+            "language": "Europe",
+            "url": "bibles/german-textbibel-(1899).json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "greek-nt-tischendorf-8th-ed.---transliterated",
+            "name": "GREEK NT: TISCHENDORF 8TH ED. - TRANSLITERATED",
+            "language": "Other",
+            "url": "bibles/greek-nt-tischendorf-8th-ed.---transliterated.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "greek-orthodox-church-1904",
+            "name": "GREEK ORTHODOX CHURCH 1904",
+            "language": "Other",
+            "url": "bibles/greek-orthodox-church-1904.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "nestle-greek-new-testament-1904---transliterated",
+            "name": "NESTLE GREEK NEW TESTAMENT 1904 - TRANSLITERATED",
+            "language": "Other",
+            "url": "bibles/nestle-greek-new-testament-1904---transliterated.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "nestle-greek-new-testament-1904",
+            "name": "NESTLE GREEK NEW TESTAMENT 1904",
+            "language": "Other",
+            "url": "bibles/nestle-greek-new-testament-1904.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "rp-byzantine-majority-text-2005",
+            "name": "RP BYZANTINE MAJORITY TEXT 2005",
+            "language": "Other",
+            "url": "bibles/rp-byzantine-majority-text-2005.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "scrivener's-textus-receptus-(1894)---transliterated",
+            "name": "SCRIVENER'S TEXTUS RECEPTUS (1894) - TRANSLITERATED",
+            "language": "Other",
+            "url": "bibles/scrivener's-textus-receptus-(1894)---transliterated.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "scrivener's-textus-receptus-1894",
+            "name": "SCRIVENER'S TEXTUS RECEPTUS 1894",
+            "language": "Other",
+            "url": "bibles/scrivener's-textus-receptus-1894.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "stephanus-textus-receptus-1550",
+            "name": "STEPHANUS TEXTUS RECEPTUS 1550",
+            "language": "Other",
+            "url": "bibles/stephanus-textus-receptus-1550.json",
+            "size": "1.7 MB"
+        },
+        {
+            "id": "stephens-textus-receptus-(1550)---transliterated",
+            "name": "STEPHENS TEXTUS RECEPTUS (1550) - TRANSLITERATED",
+            "language": "Other",
+            "url": "bibles/stephens-textus-receptus-(1550)---transliterated.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "swete's-septuagint",
+            "name": "SWETE'S SEPTUAGINT",
+            "language": "Other",
+            "url": "bibles/swete's-septuagint.json",
+            "size": "5.7 MB"
+        },
+        {
+            "id": "tischendorf-8th-edition",
+            "name": "TISCHENDORF 8TH EDITION",
+            "language": "Other",
+            "url": "bibles/tischendorf-8th-edition.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "westcott-and-hort-1881---transliterated",
+            "name": "WESTCOTT AND HORT 1881 - TRANSLITERATED",
+            "language": "Other",
+            "url": "bibles/westcott-and-hort-1881---transliterated.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "westcott-and-hort-1881",
+            "name": "WESTCOTT AND HORT 1881",
+            "language": "Other",
+            "url": "bibles/westcott-and-hort-1881.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "american-standard-version",
+            "name": "AMERICAN STANDARD VERSION",
+            "language": "Global / English",
+            "url": "bibles/american-standard-version.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "amplified-bible",
+            "name": "AMPLIFIED BIBLE",
+            "language": "Global / English",
+            "url": "bibles/amplified-bible.json",
+            "size": "4.9 MB"
+        },
+        {
+            "id": "anderson-new-testament",
+            "name": "ANDERSON NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/anderson-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "aramaic-bible-in-plain-english",
+            "name": "ARAMAIC BIBLE IN PLAIN ENGLISH",
+            "language": "Global / English",
+            "url": "bibles/aramaic-bible-in-plain-english.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "berean-literal-bible",
+            "name": "BEREAN LITERAL BIBLE",
+            "language": "Global / English",
+            "url": "bibles/berean-literal-bible.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "berean-standard-bible",
+            "name": "BEREAN STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/berean-standard-bible.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "brenton-septuagint-translation",
+            "name": "BRENTON SEPTUAGINT TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/brenton-septuagint-translation.json",
+            "size": "3.3 MB"
+        },
+        {
+            "id": "catholic-public-domain-version",
+            "name": "CATHOLIC PUBLIC DOMAIN VERSION",
+            "language": "Global / English",
+            "url": "bibles/catholic-public-domain-version.json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "christian-standard-bible",
+            "name": "CHRISTIAN STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/christian-standard-bible.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "contemporary-english-version",
+            "name": "CONTEMPORARY ENGLISH VERSION",
+            "language": "Global / English",
+            "url": "bibles/contemporary-english-version.json",
+            "size": "3.5 MB"
+        },
+        {
+            "id": "douay-rheims-bible",
+            "name": "DOUAY-RHEIMS BIBLE",
+            "language": "Global / English",
+            "url": "bibles/douay-rheims-bible.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "english-revised-version",
+            "name": "ENGLISH REVISED VERSION",
+            "language": "Global / English",
+            "url": "bibles/english-revised-version.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "english-standard-version",
+            "name": "ENGLISH STANDARD VERSION",
+            "language": "Global / English",
+            "url": "bibles/english-standard-version.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "god's-word®-translation",
+            "name": "GOD'S WORD® TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/god's-word®-translation.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "godbey-new-testament",
+            "name": "GODBEY NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/godbey-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "good-news-translation",
+            "name": "GOOD NEWS TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/good-news-translation.json",
+            "size": "3.9 MB"
+        },
+        {
+            "id": "haweis-new-testament",
+            "name": "HAWEIS NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/haweis-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "holman-christian-standard-bible",
+            "name": "HOLMAN CHRISTIAN STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/holman-christian-standard-bible.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "international-standard-version",
+            "name": "INTERNATIONAL STANDARD VERSION",
+            "language": "Global / English",
+            "url": "bibles/international-standard-version.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "jps-tanakh-1917",
+            "name": "JPS TANAKH 1917",
+            "language": "Global / English",
+            "url": "bibles/jps-tanakh-1917.json",
+            "size": "3.3 MB"
+        },
+        {
+            "id": "king-james-bible",
+            "name": "KING JAMES BIBLE",
+            "language": "Global / English",
+            "url": "bibles/king-james-bible.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "lamsa-bible",
+            "name": "LAMSA BIBLE",
+            "language": "Global / English",
+            "url": "bibles/lamsa-bible.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "legacy-standard-bible",
+            "name": "LEGACY STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/legacy-standard-bible.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "literal-standard-version",
+            "name": "LITERAL STANDARD VERSION",
+            "language": "Global / English",
+            "url": "bibles/literal-standard-version.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "mace-new-testament",
+            "name": "MACE NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/mace-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "majority-standard-bible",
+            "name": "MAJORITY STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/majority-standard-bible.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "nasb-1977",
+            "name": "NASB 1977",
+            "language": "Global / English",
+            "url": "bibles/nasb-1977.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "nasb-1995",
+            "name": "NASB 1995",
+            "language": "Global / English",
+            "url": "bibles/nasb-1995.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "net-bible",
+            "name": "NET BIBLE",
+            "language": "Global / English",
+            "url": "bibles/net-bible.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "new-american-bible",
+            "name": "NEW AMERICAN BIBLE",
+            "language": "Global / English",
+            "url": "bibles/new-american-bible.json",
+            "size": "4.0 MB"
+        },
+        {
+            "id": "new-american-standard-bible",
+            "name": "NEW AMERICAN STANDARD BIBLE",
+            "language": "Global / English",
+            "url": "bibles/new-american-standard-bible.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "new-heart-english-bible",
+            "name": "NEW HEART ENGLISH BIBLE",
+            "language": "Global / English",
+            "url": "bibles/new-heart-english-bible.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "new-international-version",
+            "name": "NEW INTERNATIONAL VERSION",
+            "language": "Global / English",
+            "url": "bibles/new-international-version.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "new-king-james-version",
+            "name": "NEW KING JAMES VERSION",
+            "language": "Global / English",
+            "url": "bibles/new-king-james-version.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "new-living-translation",
+            "name": "NEW LIVING TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/new-living-translation.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "new-revised-standard-version",
+            "name": "NEW REVISED STANDARD VERSION",
+            "language": "Global / English",
+            "url": "bibles/new-revised-standard-version.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "peshitta-holy-bible-translated",
+            "name": "PESHITTA HOLY BIBLE TRANSLATED",
+            "language": "Global / English",
+            "url": "bibles/peshitta-holy-bible-translated.json",
+            "size": "3.3 MB"
+        },
+        {
+            "id": "smith's-literal-translation",
+            "name": "SMITH'S LITERAL TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/smith's-literal-translation.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "webster's-bible-translation",
+            "name": "WEBSTER'S BIBLE TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/webster's-bible-translation.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "weymouth-new-testament",
+            "name": "WEYMOUTH NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/weymouth-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "world-english-bible",
+            "name": "WORLD ENGLISH BIBLE",
+            "language": "Global / English",
+            "url": "bibles/world-english-bible.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "worrell-new-testament",
+            "name": "WORRELL NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/worrell-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "worsley-new-testament",
+            "name": "WORSLEY NEW TESTAMENT",
+            "language": "Global / English",
+            "url": "bibles/worsley-new-testament.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "young's-literal-translation",
+            "name": "YOUNG'S LITERAL TRANSLATION",
+            "language": "Global / English",
+            "url": "bibles/young's-literal-translation.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "esperanto",
+            "name": "ESPERANTO",
+            "language": "Other",
+            "url": "bibles/esperanto.json",
+            "size": "4.0 MB"
+        },
+        {
+            "id": "la-biblia-de-las-américas",
+            "name": "LA BIBLIA DE LAS AMÉRICAS",
+            "language": "Other",
+            "url": "bibles/la-biblia-de-las-américas.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "la-nueva-biblia-de-los-hispanos",
+            "name": "LA NUEVA BIBLIA DE LOS HISPANOS",
+            "language": "Other",
+            "url": "bibles/la-nueva-biblia-de-los-hispanos.json",
+            "size": "4.2 MB"
+        },
+        {
+            "id": "reina-valera-1909",
+            "name": "REINA VALERA 1909",
+            "language": "Other",
+            "url": "bibles/reina-valera-1909.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "reina-valera-gómez",
+            "name": "REINA VALERA GÓMEZ",
+            "language": "Other",
+            "url": "bibles/reina-valera-gómez.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "sagradas-escrituras-1569",
+            "name": "SAGRADAS ESCRITURAS 1569",
+            "language": "Other",
+            "url": "bibles/sagradas-escrituras-1569.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "tagalog-ang-dating-biblia-(1905)",
+            "name": "TAGALOG: ANG DATING BIBLIA (1905)",
+            "language": "Asia",
+            "url": "bibles/tagalog-ang-dating-biblia-(1905).json",
+            "size": "5.0 MB"
+        },
+        {
+            "id": "basque-(navarro-labourdin)-nt",
+            "name": "BASQUE (NAVARRO-LABOURDIN): NT",
+            "language": "Other",
+            "url": "bibles/basque-(navarro-labourdin)-nt.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "finnish-bible-(1776)",
+            "name": "FINNISH: BIBLE (1776)",
+            "language": "Other",
+            "url": "bibles/finnish-bible-(1776).json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "french-darby",
+            "name": "FRENCH: DARBY",
+            "language": "Europe",
+            "url": "bibles/french-darby.json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "french-louis-segond-(1910)",
+            "name": "FRENCH: LOUIS SEGOND (1910)",
+            "language": "Europe",
+            "url": "bibles/french-louis-segond-(1910).json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "french-martin-(1744)",
+            "name": "FRENCH: MARTIN (1744)",
+            "language": "Europe",
+            "url": "bibles/french-martin-(1744).json",
+            "size": "4.7 MB"
+        },
+        {
+            "id": "aleppo-codex",
+            "name": "ALEPPO CODEX",
+            "language": "Other",
+            "url": "bibles/aleppo-codex.json",
+            "size": "3.0 MB"
+        },
+        {
+            "id": "westminster-leningrad-codex",
+            "name": "WESTMINSTER LENINGRAD CODEX",
+            "language": "Other",
+            "url": "bibles/westminster-leningrad-codex.json",
+            "size": "5.4 MB"
+        },
+        {
+            "id": "wlc-(consonants-only)",
+            "name": "WLC (CONSONANTS ONLY)",
+            "language": "Other",
+            "url": "bibles/wlc-(consonants-only).json",
+            "size": "3.0 MB"
+        },
+        {
+            "id": "croatian-bible",
+            "name": "CROATIAN BIBLE",
+            "language": "Other",
+            "url": "bibles/croatian-bible.json",
+            "size": "3.6 MB"
+        },
+        {
+            "id": "hungarian-karoli",
+            "name": "HUNGARIAN: KAROLI",
+            "language": "Other",
+            "url": "bibles/hungarian-karoli.json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "armenian-(western)-nt",
+            "name": "ARMENIAN (WESTERN): NT",
+            "language": "Other",
+            "url": "bibles/armenian-(western)-nt.json",
+            "size": "1.8 MB"
+        },
+        {
+            "id": "indonesian---terjemahan-lama-(tl)",
+            "name": "INDONESIAN - TERJEMAHAN LAMA (TL)",
+            "language": "Other",
+            "url": "bibles/indonesian---terjemahan-lama-(tl).json",
+            "size": "5.3 MB"
+        },
+        {
+            "id": "italian-giovanni-diodati-bible-(1649)",
+            "name": "ITALIAN: GIOVANNI DIODATI BIBLE (1649)",
+            "language": "Europe",
+            "url": "bibles/italian-giovanni-diodati-bible-(1649).json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "italian-riveduta-bible-(1927)",
+            "name": "ITALIAN: RIVEDUTA BIBLE (1927)",
+            "language": "Europe",
+            "url": "bibles/italian-riveduta-bible-(1927).json",
+            "size": "4.3 MB"
+        },
+        {
+            "id": "korean",
+            "name": "KOREAN",
+            "language": "Asia",
+            "url": "bibles/korean.json",
+            "size": "4.6 MB"
+        },
+        {
+            "id": "latin-vulgata-clementina",
+            "name": "LATIN: VULGATA CLEMENTINA",
+            "language": "Other",
+            "url": "bibles/latin-vulgata-clementina.json",
+            "size": "3.8 MB"
+        },
+        {
+            "id": "lithuanian",
+            "name": "LITHUANIAN",
+            "language": "Other",
+            "url": "bibles/lithuanian.json",
+            "size": "3.6 MB"
+        },
+        {
+            "id": "latvian-new-testament",
+            "name": "LATVIAN NEW TESTAMENT",
+            "language": "Other",
+            "url": "bibles/latvian-new-testament.json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "maori",
+            "name": "MAORI",
+            "language": "Other",
+            "url": "bibles/maori.json",
+            "size": "4.6 MB"
+        },
+        {
+            "id": "dutch-staten-vertaling",
+            "name": "DUTCH STATEN VERTALING",
+            "language": "Other",
+            "url": "bibles/dutch-staten-vertaling.json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "norwegian-det-norsk-bibelselskap-(1930)",
+            "name": "NORWEGIAN: DET NORSK BIBELSELSKAP (1930)",
+            "language": "Other",
+            "url": "bibles/norwegian-det-norsk-bibelselskap-(1930).json",
+            "size": "3.9 MB"
+        },
+        {
+            "id": "bíblia-king-james-atualizada-português",
+            "name": "BÍBLIA KING JAMES ATUALIZADA PORTUGUÊS",
+            "language": "Other",
+            "url": "bibles/bíblia-king-james-atualizada-português.json",
+            "size": "4.7 MB"
+        },
+        {
+            "id": "portugese-bible",
+            "name": "PORTUGESE BIBLE",
+            "language": "Other",
+            "url": "bibles/portugese-bible.json",
+            "size": "4.1 MB"
+        },
+        {
+            "id": "romanian-cornilescu",
+            "name": "ROMANIAN: CORNILESCU",
+            "language": "Other",
+            "url": "bibles/romanian-cornilescu.json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "russian-koi8r",
+            "name": "RUSSIAN KOI8R",
+            "language": "Europe",
+            "url": "bibles/russian-koi8r.json",
+            "size": "6.1 MB"
+        },
+        {
+            "id": "russian-synodal-translation-(1876)",
+            "name": "RUSSIAN: SYNODAL TRANSLATION (1876)",
+            "language": "Europe",
+            "url": "bibles/russian-synodal-translation-(1876).json",
+            "size": "6.1 MB"
+        },
+        {
+            "id": "albanian",
+            "name": "ALBANIAN",
+            "language": "Other",
+            "url": "bibles/albanian.json",
+            "size": "4.5 MB"
+        },
+        {
+            "id": "swedish-(1917)",
+            "name": "SWEDISH (1917)",
+            "language": "Other",
+            "url": "bibles/swedish-(1917).json",
+            "size": "3.3 MB"
+        },
+        {
+            "id": "swahili-nt",
+            "name": "SWAHILI NT",
+            "language": "Africa",
+            "url": "bibles/swahili-nt.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "thai-from-kjv",
+            "name": "THAI: FROM KJV",
+            "language": "Other",
+            "url": "bibles/thai-from-kjv.json",
+            "size": "10.8 MB"
+        },
+        {
+            "id": "turkish",
+            "name": "TURKISH",
+            "language": "Other",
+            "url": "bibles/turkish.json",
+            "size": "3.7 MB"
+        },
+        {
+            "id": "ukrainian-nt",
+            "name": "UKRAINIAN: NT",
+            "language": "Other",
+            "url": "bibles/ukrainian-nt.json",
+            "size": "1.6 MB"
+        },
+        {
+            "id": "kabyle-nt",
+            "name": "KABYLE: NT",
+            "language": "Other",
+            "url": "bibles/kabyle-nt.json",
+            "size": "1.4 MB"
+        },
+        {
+            "id": "tawallamat-tamajaq-nt",
+            "name": "TAWALLAMAT TAMAJAQ NT",
+            "language": "Other",
+            "url": "bibles/tawallamat-tamajaq-nt.json",
+            "size": "1.5 MB"
+        },
+        {
+            "id": "vietnamese-(1934)",
+            "name": "VIETNAMESE (1934)",
+            "language": "Other",
+            "url": "bibles/vietnamese-(1934).json",
+            "size": "5.2 MB"
+        },
+        {
+            "id": "chinese-bible-union-(simplified)",
+            "name": "CHINESE BIBLE: UNION (SIMPLIFIED)",
+            "language": "Asia",
+            "url": "bibles/chinese-bible-union-(simplified).json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "chinese-bible-union-(traditional)",
+            "name": "CHINESE BIBLE: UNION (TRADITIONAL)",
+            "language": "Asia",
+            "url": "bibles/chinese-bible-union-(traditional).json",
+            "size": "4.4 MB"
+        },
+        {
+            "id": "中文标准译本-(csb-simplified)",
+            "name": "中文标准译本 (CSB SIMPLIFIED)",
+            "language": "Other",
+            "url": "bibles/中文标准译本-(csb-simplified).json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "中文標準譯本-(csb-traditional)",
+            "name": "中文標準譯本 (CSB TRADITIONAL)",
+            "language": "Other",
+            "url": "bibles/中文標準譯本-(csb-traditional).json",
+            "size": "1.3 MB"
+        },
+        {
+            "id": "现代标点和合本-(cuvmp-simplified)",
+            "name": "现代标点和合本 (CUVMP SIMPLIFIED)",
+            "language": "Other",
+            "url": "bibles/现代标点和合本-(cuvmp-simplified).json",
+            "size": "3.4 MB"
+        },
+        {
+            "id": "現代標點和合本-(cuvmp-traditional)",
+            "name": "現代標點和合本 (CUVMP TRADITIONAL)",
+            "language": "Other",
+            "url": "bibles/現代標點和合本-(cuvmp-traditional).json",
+            "size": "3.4 MB"
         }
     ]
 }
